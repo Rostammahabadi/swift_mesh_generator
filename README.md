@@ -62,10 +62,3 @@ A powerful SwiftUI-based mesh gradient editor that allows you to create, customi
 1. Clone the repository
 2. Open `MeshGradient.xcodeproj` in Xcode
 3. Build and run the project
-
----
-
-<div align="center">
-Created with SwiftUI • Designed for macOS
-</div>
->>>>>>> 2dc619b (update readme)
